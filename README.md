@@ -1,43 +1,155 @@
-💫 Hi 👋, I'm Abhijeet Singh
-🚀 AI/ML Engineer | Full-Stack Developer | Cloud & DevOps Innovator | Tech Enthusiast
+<!-- HEADER -->
+<h1 align="center">🌟 Abhijeet Singh - AI/ML Engineer & Full Stack Developer 🌟</h1>
 
-📩 Email Me: ✉️ masterabhijeetsingh@gmail.com for Collaborations, Projects, or Just a Tech Chat! 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=F7BF0D&size=23&center=true&width=600&lines=AI/ML+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Passionate+About+Cutting-Edge+Tech;Let's+Connect+%F0%9F%94%97">
+</p>
 
-🔭 I’m currently working on: AI-powered Facial Recognition & Full-Stack AI Applications
-🌱 I’m currently learning: Advanced Machine Learning, DevOps, and Java DSA
-👯 I’m looking to collaborate on: AI, ML, Web Development & Open-Source Projects
-🤔 I’m looking for help with: Scalable AI Deployments & Cloud Solutions
-💬 Ask me about: AI, Full-Stack Development, Cloud Computing, and DevOps
-📫 How to reach me: masterabhijeetsingh@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love building AI-driven innovations, and AI loves solving my problems! 😆
-
-🚀 Let’s connect and innovate together!
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abbytech02) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abby__0022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-singh-657bb229a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abbytech_0022) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masterabhijeetsingh@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhijeetsingh0022&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhijeetsingh0022&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="300">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhijeetsingh0022&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhijeetSingh24407) 
+<!-- ABOUT ME -->
+<h3 align="center">🚀 About Me</h3>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📩 **Email Me:** ✉️ masterabhijeetsingh@gmail.com for Collaborations, Projects, or Just a Tech Chat!  
+🔭 **Currently Working On:** AI-powered Facial Recognition & Full-Stack AI Applications  
+🌱 **Currently Learning:** Advanced Machine Learning, DevOps, and Java DSA  
+👯 **Looking to Collaborate On:** AI, ML, Web Development & Open-Source Projects  
+🤔 **Looking for Help With:** Scalable AI Deployments & Cloud Solutions  
+💬 **Ask Me About:** AI, Full-Stack Development, Cloud Computing, and DevOps  
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** I love building AI-driven innovations, and AI loves solving my problems! 😆  
+
+---
+
+<!-- SOCIAL LINKS -->
+<h3 align="center">🌍 Connect with Me</h3>
+<p align="center">
+  <a href="https://facebook.com/Abbytech02"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+  <a href="https://instagram.com/abby__0022"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/abhijeet-singh-657bb229a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Abbytech_0022"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="mailto:masterabhijeetsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h3 align="center">💻 Tech Stack</h3>
+
+### 🔹 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### 🔹 **Backend & APIs**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### 🔹 **AI/ML & Data Science**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🔹 **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+
+### 🔹 **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+<!-- PROJECTS -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+- 🔍 **AI-Powered Facial Recognition for Missing Persons**  
+  - 📸 Real-time face recognition  
+  - 🛠️ Built with **FastAPI, MongoDB, DeepFace**
+
+- 🏥 **AI Healthcare Platform**  
+  - 🤖 AI Chatbot for medical assistance  
+  - 🌎 Global health monitoring system
+
+---
+
+<!-- GITHUB STATS -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=gruvbox_light" width="48%">
+</p>
+
+---
+
+<!-- GITHUB CONTRIBUTION SNAKE -->
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+<!-- LIVE CODING -->
+<h3 align="center">💡 Live Coding Activity</h3>
+<p align="center">Experience my daily coding progress and streaks in real-time!</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=000000&color=79ff97&line=79ff97&point=3bde2e&theme=react-dark" alt="Live Coding Activity">
+</p>
+
+---
+<!-- ACHIEVEMENTS -->
+<h3 align="center">🏆 Achievements</h3>
+
+- 🏅 **#HackFest 2024 Hackathon Winner**  
+- 🎤 **Speaker at AI & ML Conferences**  
+- 🚀 **Built Scalable AI Solutions for Healthcare & Security**
+
+---
+
+<!-- FUN SECTION -->
+<h3 align="center">🎮 Fun Facts About Me</h3>
+
+- 💡 I love **building AI solutions** that make a real impact!  
+- 🏆 Passionate about **hackathons & coding challenges**  
+- 🌍 Exploring **cutting-edge AI/ML trends**
+
+---
+
+<!-- PROFILE VISIT COUNT -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhijeetsingh0022&color=blue" alt="Profile Views">
+</p>
+
+
+---
+
+<!-- SUPPORT ME -->
+<h3 align="center">💰 Support My Work</h3>
+<p align="center">
+  <a href="https://paypal.me/AbhijeetSingh24407">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Let's build the future with AI & ML! 🚀</h3>
