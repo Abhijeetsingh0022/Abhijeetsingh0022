@@ -25,6 +25,15 @@
 
 ---
 
+<!-- CURRENT FOCUS -->
+<h3 align="center">🎯 Current Focus</h3>
+
+- 🧠 **Advanced Deep Learning** - Working on Transformer architectures and LLMs
+- ☁️ **Cloud-Native AI** - Deploying ML models at scale with AWS & Docker
+- 🔄 **MLOps** - Building automated ML pipelines and CI/CD for AI
+
+---
+
 <!-- SOCIAL LINKS -->
 <h3 align="center">🌍 Connect with Me</h3>
 <p align="center">
@@ -37,63 +46,98 @@
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECH STACK - COMPACT VERSION -->
 <h3 align="center">💻 Tech Stack</h3>
 
-### 🔹 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,fastapi,express,django,flask,python,tensorflow,opencv,sklearn,pytorch,aws,vercel,docker,githubactions,mongodb,mysql,sqlite,postgres&perline=8" />
+</p>
 
-### 🔹 **Backend & APIs**
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### 🔹 **AI/ML & Data Science**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+**AI/ML & Data:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 🔹 **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 
-### 🔹 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-<!-- PROJECTS -->
+<!-- SKILL PROFICIENCY -->
+<h3 align="center">💪 Skill Proficiency</h3>
+
+<div align="center">
+
+**AI/ML & Deep Learning:** ![95%](https://progress-bar.dev/95/?title=95%25&width=200&color=61dafb)  
+**Python & Data Science:** ![90%](https://progress-bar.dev/90/?title=90%25&width=200&color=3776ab)  
+**React/Next.js:** ![85%](https://progress-bar.dev/85/?title=85%25&width=200&color=61dafb)  
+**Cloud Computing (AWS):** ![80%](https://progress-bar.dev/80/?title=80%25&width=200&color=ff9900)  
+**DevOps & MLOps:** ![75%](https://progress-bar.dev/75/?title=75%25&width=200&color=2496ed)
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
 <h3 align="center">🚀 Featured Projects</h3>
 
-- 🔍 **AI-Powered Facial Recognition for Missing Persons**  
-  - 📸 Real-time face recognition  
-  - 🛠️ Built with **FastAPI, MongoDB, DeepFace**
+<table align="center">
+<tr>
+<td width="50%">
 
-- 🏥 **AI Healthcare Platform**  
-  - 🤖 AI Chatbot for medical assistance  
-  - 🌎 Global health monitoring system
+### 🔍 **AI-Powered Facial Recognition for Missing Persons**
+**Tech Stack:** FastAPI, MongoDB, DeepFace, OpenCV  
+**Features:**
+- 📸 Real-time face recognition
+- 🗄️ Missing person database
+- 🚨 Automated alert system
+- 📊 Recognition accuracy dashboard
+
+[🔗 View Project](https://github.com/Abhijeetsingh0022/facial-recognition) | [🌐 Live Demo](https://your-demo-link.com)
+
+</td>
+<td width="50%">
+
+### 🏥 **AI Healthcare Platform**  
+**Tech Stack:** React, Node.js, TensorFlow, AWS  
+**Features:**
+- 🤖 AI-powered medical chatbot
+- 📈 Health monitoring system
+- 🩺 Symptom analysis
+- 🌍 Global health insights
+
+[🔗 View Project](https://github.com/Abhijeetsingh0022/healthcare-ai) | [🌐 Live Demo](https://healthcare-demo.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- GITHUB STATS -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- GITHUB ANALYTICS -->
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=gruvbox_light" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&layout=compact&langs_count=6" width="55%">
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=faf8f1&color=d4a574&line=d4a574&point=b45309&area=true&hide_border=false" width="80%">
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeetsingh0022&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=6" width="70%">
 </p>
 
 ---
@@ -101,46 +145,14 @@
 <!-- GITHUB CONTRIBUTION SNAKE -->
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-<!-- LIVE CODING -->
-<h3 align="center">💡 Live Coding Activity</h3>
-<p align="center">Experience my daily coding progress and streaks in real-time!</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=000000&color=79ff97&line=79ff97&point=3bde2e&theme=react-dark" alt="Live Coding Activity">
-</p>
-
----
-<!-- ACHIEVEMENTS -->
-<h3 align="center">🏆 Achievements</h3>
-
-- 🏅 **#HackFest 2024 Hackathon Winner**  
-- 🎤 **Speaker at AI & ML Conferences**  
-- 🚀 **Built Scalable AI Solutions for Healthcare & Security**
-
----
-
-<!-- FUN SECTION -->
-<h3 align="center">🎮 Fun Facts About Me</h3>
-
-- 💡 I love **building AI solutions** that make a real impact!  
-- 🏆 Passionate about **hackathons & coding challenges**  
-- 🌍 Exploring **cutting-edge AI/ML trends**
-
----
-
-<!-- PROFILE VISIT COUNT -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeetsingh0022&color=blue" alt="Profile Views">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake.svg">
+</picture>
 
 
----
+
 
 <!-- SUPPORT ME -->
 <h3 align="center">💰 Support My Work</h3>
@@ -148,8 +160,15 @@
   <a href="https://paypal.me/AbhijeetSingh24407">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
+  <a href="https://ko-fi.com/abhijeetsingh">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <h3 align="center">🚀 Let's build the future with AI & ML! 🚀</h3>
+
+<p align="center">
+  <i>"The best way to predict the future is to create it with AI."</i>
+</p>
