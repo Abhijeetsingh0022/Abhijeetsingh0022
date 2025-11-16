@@ -1,149 +1,118 @@
-<!-- HEADER -->
-<h1 align="center">🌟 Abhijeet Singh - AI/ML Engineer & Full Stack Developer 🌟</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=F7BF0D&size=23&center=true&width=600&lines=AI/ML+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Passionate+About+Cutting-Edge+Tech;Let's+Connect+%F0%9F%94%97">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="300">
-</p>
-
----
-
-<!-- ABOUT ME -->
-<h3 align="center">🚀 About Me</h3>
-
-📩 **Email Me:** ✉️ masterabhijeetsingh@gmail.com for Collaborations, Projects, or Just a Tech Chat!  
-🔭 **Currently Working On:** AI-powered Facial Recognition & Full-Stack AI Applications  
-🌱 **Currently Learning:** Advanced Machine Learning, DevOps, and Java DSA  
-👯 **Looking to Collaborate On:** AI, ML, Web Development & Open-Source Projects  
-🤔 **Looking for Help With:** Scalable AI Deployments & Cloud Solutions  
-💬 **Ask Me About:** AI, Full-Stack Development, Cloud Computing, and DevOps  
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I love building AI-driven innovations, and AI loves solving my problems! 😆  
-
----
-
-<!-- CURRENT FOCUS -->
-<h3 align="center">🎯 Current Focus</h3>
-
-- 🧠 **Advanced Deep Learning** - Working on Transformer architectures and LLMs
-- ☁️ **Cloud-Native AI** - Deploying ML models at scale with AWS & Docker
-- 🔄 **MLOps** - Building automated ML pipelines and CI/CD for AI
-
----
-
-<!-- SOCIAL LINKS -->
-<h3 align="center">🌍 Connect with Me</h3>
-<p align="center">
-  <a href="https://facebook.com/Abbytech02"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://instagram.com/abby__0022"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/abhijeet-singh-657bb229a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Abbytech_0022"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-  <a href="mailto:masterabhijeetsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-<!-- TECH STACK - COMPACT VERSION -->
-<h3 align="center">💻 Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,fastapi,express,django,flask,python,tensorflow,opencv,sklearn,pytorch,aws,vercel,docker,githubactions,mongodb,mysql,sqlite,postgres&perline=8" />
-</p>
-
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**AI/ML & Data:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-<!-- SKILL PROFICIENCY -->
-<h3 align="center">💪 Skill Proficiency</h3>
-
 <div align="center">
 
-**AI/ML & Deep Learning:** ![95%](https://progress-bar.dev/95/?title=95%25&width=200&color=61dafb)  
-**Python & Data Science:** ![90%](https://progress-bar.dev/90/?title=90%25&width=200&color=3776ab)  
-**React/Next.js:** ![85%](https://progress-bar.dev/85/?title=85%25&width=200&color=61dafb)  
-**Cloud Computing (AWS):** ![80%](https://progress-bar.dev/80/?title=80%25&width=200&color=ff9900)  
-**DevOps & MLOps:** ![75%](https://progress-bar.dev/75/?title=75%25&width=200&color=2496ed)
+# 👋 Hi, I'm Abhijeet Singh
+### 🤖 AI/ML Engineer | Full Stack Developer | Data Analyst
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijeetsingh-dev-protfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetsingh0022)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masterabhijeetsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhijeetsingh0022)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhijeetsingh0022&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h3 align="center">🚀 Featured Projects</h3>
+## 🚀 About Me
 
-<table align="center">
-<tr>
-<td width="50%">
+AI/ML Engineer passionate about building intelligent solutions that solve real-world problems. Specialized in **computer vision**, **facial recognition systems**, and **full-stack development** with cloud infrastructure.
 
-### 🔍 **AI-Powered Facial Recognition for Missing Persons**
-**Tech Stack:** FastAPI, MongoDB, DeepFace, OpenCV  
-**Features:**
-- 📸 Real-time face recognition
-- 🗄️ Missing person database
-- 🚨 Automated alert system
-- 📊 Recognition accuracy dashboard
-
-[🔗 View Project](https://github.com/Abhijeetsingh0022/facial-recognition) | [🌐 Live Demo](https://your-demo-link.com)
-
-</td>
-<td width="50%">
-
-### 🏥 **AI Healthcare Platform**  
-**Tech Stack:** React, Node.js, TensorFlow, AWS  
-**Features:**
-- 🤖 AI-powered medical chatbot
-- 📈 Health monitoring system
-- 🩺 Symptom analysis
-- 🌍 Global health insights
-
-[🔗 View Project](https://github.com/Abhijeetsingh0022/healthcare-ai) | [🌐 Live Demo](https://healthcare-demo.com)
-
-</td>
-</tr>
-</table>
+- 🔭 Currently working on **AI-powered SaaS applications**
+- 🌱 Exploring **AWS Cloud Security & Network Automation**
+- 🎯 Building production-ready ML systems with **FastAPI + React + MongoDB**
+- 📍 Based in **India**
+- 💼 Portfolio: [abhijeetsingh-dev-protfolio.vercel.app](https://abhijeetsingh-dev-protfolio.vercel.app/)
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-<h3 align="center">📊 GitHub Analytics</h3>
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" width="48%">
-  <img src="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false" width="48%">
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&theme=gruvbox_light&hide_border=false&layout=compact&langs_count=6" width="55%">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=faf8f1&color=d4a574&line=d4a574&point=b45309&area=true&hide_border=false" width="80%">
-</p>
+**Frameworks & Libraries**
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeetsingh0022&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=6" width="70%">
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Tools & Technologies**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
+## 🏆 Certifications & Achievements
+
+- 🎯 **Hackfest 2024** Participant — GeeksforGeeks HQ, Noida
+- 🔐 **AWS Cloud Security** — Amazon Cognito & RDS Implementation
+- ☁️ **AWS CloudFormation** — Infrastructure Automation
+- 🎓 **Data Analysis & Network Engineering** Bootcamp Graduate
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Abhijeetsingh0022&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="50%" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhijeetsingh0022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake-dark.svg">
@@ -151,24 +120,58 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-<!-- SUPPORT ME -->
-<h3 align="center">💰 Support My Work</h3>
-<p align="center">
-  <a href="https://paypal.me/AbhijeetSingh24407">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-  <a href="https://ko-fi.com/abhijeetsingh">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🚀 Let's build the future with AI & ML! 🚀</h3>
+## 💬 Connect With Me
 
-<p align="center">
-  <i>"The best way to predict the future is to create it with AI."</i>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-masterabhijeetsingh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masterabhijeetsingh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeetsingh0022-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetsingh0022)
+[![Twitter](https://img.shields.io/badge/Twitter-Abbytech__0022-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abbytech_0022)
+[![Instagram](https://img.shields.io/badge/Instagram-abby__0022-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abby__0022)
+[![Facebook](https://img.shields.io/badge/Facebook-Abbytech02-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Abbytech02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijeetsingh-dev-protfolio.vercel.app/)
+
+</div>
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+If you like my projects and want to support my work, consider buying me a coffee! ☕
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhijeetSingh24407)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abhijeetsingh)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhijeetsingh)
+
+</div>
+
+---
+
+## 📫 Let's Collaborate!
+
+I'm always open to:
+- 🤝 Collaborating on **AI/ML projects**
+- 💡 Discussing **computer vision** and **deep learning**
+- 🚀 Building **SaaS products** together
+- 📚 Sharing knowledge about **cloud architecture** and **network automation**
+
+Feel free to reach out at **[masterabhijeetsingh@gmail.com](mailto:masterabhijeetsingh@gmail.com)**
+
+---
+
+<div align="center">
+
+### 🚀 *"Building the future, one AI model at a time"* 🚀
+
+
+**Made with ❤️ by Abhijeet Singh**
+
+⭐️ From [Abhijeetsingh0022](https://github.com/Abhijeetsingh0022)
+
+</div>
