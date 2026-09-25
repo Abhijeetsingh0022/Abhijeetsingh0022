@@ -1,177 +1,173 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhijeet Singh
-### 🤖 AI/ML Engineer | Full Stack Developer | Data Analyst
+# Abhijeet Singh
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijeetsingh-dev-protfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetsingh0022)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masterabhijeetsingh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhijeetsingh0022)
+**AI/ML Engineer &amp; Full-Stack Developer passionate about building scalable solutions with cutting-edge tech. Always turning innovative ideas into reality.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhijeetsingh0022&color=blueviolet&style=for-the-badge)
+📍 Noida &nbsp; • &nbsp; <a href="https://github.com/Abhijeetsingh0022">@Abhijeetsingh0022</a>
+
+<br/>
+
+<a href="https://abhijeetsingh-dev-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/abhijeetsingh0022"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; <a href="mailto:masterabhijeetsingh@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp; <a href="https://github.com/Abhijeetsingh0022"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abhijeetsingh0022&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-AI/ML Engineer passionate about building intelligent solutions that solve real-world problems. Specialized in **computer vision**, **facial recognition systems**, and **full-stack development** with cloud infrastructure.
-
-- 🔭 Currently working on **AI-powered SaaS applications**
-- 🌱 Exploring **AWS Cloud Security & Network Automation**
-- 🎯 Building production-ready ML systems with **FastAPI + React + MongoDB**
-- 📍 Based in **India**
-- 💼 Portfolio: [abhijeetsingh-dev-protfolio.vercel.app](https://abhijeetsingh-dev-protfolio.vercel.app/)
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Tools & Technologies**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-
-## 🏆 Certifications & Achievements
-
-- 🎯 **Hackfest 2024** Participant — GeeksforGeeks HQ, Noida
-- 🔐 **AWS Cloud Security** — Amazon Cognito & RDS Implementation
-- ☁️ **AWS CloudFormation** — Infrastructure Automation
-- 🎓 **Data Analysis & Network Engineering** Bootcamp Graduate
-
----
-
-## 📊 GitHub Stats
+### 📊 Live GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Abhijeetsingh0022&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="50%" alt="Top Languages" />
+| 📦 Public Repositories | ⭐ Total Stars Earned | 🍴 Total Forks | 📅 Tracked Since |
+|:---:|:---:|:---:|:---:|
+| **11** | **16** | **0** | **2023-12-12** |
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+### 🛠️ Dynamic Tech Ecosystem
 
-<div align="center">
+*Aggregated in real-time from repository language data and topics:*
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhijeetsingh0022&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
+**Repository Topics & Tags**  
+`AI/ML` · `FastAPI` · `Python` · `TypeScript` · `Next.js`
 
-</div>
+<br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeetsingh0022&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
+**Codebase Language Distribution**  
+| Language | Distribution | Share |
+|:---|:---:|---:|
+| `TypeScript` | `█████░░░░░` | 54.5% |
+| `Python` | `████░░░░░░` | 36.4% |
+| `JavaScript` | `█░░░░░░░░░` | 9.1% |
 
 ---
 
-## 🐍 Contribution Snake
+### 🚀 Featured Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Advance-Chat-Bot](https://github.com/Abhijeetsingh0022/Advance-Chat-Bot)
+
+Advanced AI ChatBot is a production-ready full-stack application with multi-provider AI support (Text,Image, Reasoning, coding, semantic memory system with embeddings, real-time streaming, function calling, analytics dashboard, and secure JWT authentication. Built with FastAPI, Next.js, PostgreSQL, and MongoDB.
+<br/>
+<sub>⚙ TypeScript &nbsp; ⭐ 3 &nbsp; ⑂ 0 &nbsp; · &nbsp; 10 mos ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [JurisQuery](https://github.com/Abhijeetsingh0022/JurisQuery)
+
+JurisQuery is a next-generation legal tech platform that simplifies complex document analysis. Upload legal contracts, ask natural language questions, and receive instant, citation-backed answers. Transform hours of manual reading into seconds of automated insight.
+<br/>
+<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 mo ago</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Portfolio-2.0](https://github.com/Abhijeetsingh0022/Portfolio-2.0)
+
+Hi, I&#x27;m Abhijeet Singh - a Computer Science student and software developer specializing in AI/ML and full-stack development. This portfolio highlights my journey, projects, and technical expertise.
+<br/>
+<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 9 mos ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [face-recognition-deep](https://github.com/Abhijeetsingh0022/face-recognition-deep)
+
+A real-time facial recognition system powered by OpenCV and DeepFace captures webcam frames, detects faces, and matches them with known faces stored locally.
+<br/>
+<sub>⚙ Python &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 yr ago</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OsmosisDB](https://github.com/Abhijeetsingh0022/OsmosisDB)
+
+OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy and automated DBA agent system.   It observes your application’s SQL traffic, semantically groups workloads using vector embeddings, detects access pattern drift, and safely applies schema optimisations (indexes) – all without human intervention.
+<br/>
+<sub>⚙ Python &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 mo ago</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [GraspMind-AI-](https://github.com/Abhijeetsingh0022/GraspMind-AI-)
+
+GraspMind AI is a full-stack, AI-native study platform. Students upload PDFs, DOCX, PPTX, and notes; the platform indexes them via a multi-stage Retrieval-Augmented Generation (RAG) pipeline. They can then chat with their material, generate flashcards, take adaptive quizzes, build knowledge graphs, and track mastery.
+<br/>
+<sub>⚙ TypeScript &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 4 mos ago</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhijeetsingh0022/Abhijeetsingh0022/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&hide_border=true&theme=github_dark&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&hide_border=true&theme=default&title_color=111111&icon_color=111111&text_color=555555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetsingh0022&show_icons=true&hide_border=true&theme=default&title_color=111111&icon_color=111111&text_color=555555" width="48%" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&layout=compact&hide_border=true&theme=github_dark&title_color=ffffff&text_color=999999&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&layout=compact&hide_border=true&theme=default&title_color=111111&text_color=555555" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetsingh0022&layout=compact&hide_border=true&theme=default&title_color=111111&text_color=555555" width="40%" alt="Top Languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111" />
+  <img src="https://streak-stats.demolab.com?user=Abhijeetsingh0022&theme=default&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111" width="70%" alt="GitHub Streak" />
 </picture>
 
 </div>
 
 ---
 
-## 💬 Connect With Me
+### 🐍 Contribution Activity
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-masterabhijeetsingh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masterabhijeetsingh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijeetsingh0022-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeetsingh0022)
-[![Twitter](https://img.shields.io/badge/Twitter-Abbytech__0022-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abbytech_0022)
-[![Instagram](https://img.shields.io/badge/Instagram-abby__0022-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abby__0022)
-[![Facebook](https://img.shields.io/badge/Facebook-Abbytech02-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Abbytech02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhijeetsingh-dev-protfolio.vercel.app/)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake" src="assets/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-## 💰 Support My Work
+### ⚡ Recent Public Activity
 
-<div align="center">
-
-If you like my projects and want to support my work, consider buying me a coffee! ☕
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhijeetSingh24407)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abhijeetsingh)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhijeetsingh)
-
-</div>
-
----
-
-## 📫 Let's Collaborate!
-
-I'm always open to:
-- 🤝 Collaborating on **AI/ML projects**
-- 💡 Discussing **computer vision** and **deep learning**
-- 🚀 Building **SaaS products** together
-- 📚 Sharing knowledge about **cloud architecture** and **network automation**
-
-Feel free to reach out at **[masterabhijeetsingh@gmail.com](mailto:masterabhijeetsingh@gmail.com)**
+_Recent public commits and actions refresh automatically._
 
 ---
 
 <div align="center">
 
-### 🚀 *"Building the future, one AI model at a time"* 🚀
+**Building · Learning · Shipping**
 
-
-**Made with ❤️ by Abhijeet Singh**
-
-⭐️ From [Abhijeetsingh0022](https://github.com/Abhijeetsingh0022)
+<a href="https://github.com/Abhijeetsingh0022?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+</a> &nbsp; <a href="https://abhijeetsingh-dev-protfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-111111?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 
 </div>
+
+<!-- profile-readme:generated -->

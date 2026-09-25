@@ -1,0 +1,124 @@
+{
+  "user": {
+    "login": "Abhijeetsingh0022",
+    "name": "Abhijeet Singh",
+    "bio": "AI/ML Engineer & Full-Stack Developer passionate about building scalable solutions with cutting-edge tech. Always turning innovative ideas into reality.",
+    "public_repos": 12,
+    "followers": 2,
+    "following": 0,
+    "blog": "https://abhijeetsingh-dev-protfolio.vercel.app/",
+    "location": "Noida",
+    "created_at": "2023-12-12T00:00:00Z"
+  },
+  "repos": [
+    {
+      "name": "Abhijeetsingh0022",
+      "fork": false,
+      "stars": 3,
+      "forks": 0,
+      "language": null,
+      "desc": "AI/ML Engineer | Full Stack Developer | Building intelligent solutions with FastAPI, React & TensorFlow | Data Analyst Specialist ",
+      "pushed_at": "2025-11-16T22:44:41Z"
+    },
+    {
+      "name": "Advance-Chat-Bot",
+      "fork": false,
+      "stars": 3,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "Advanced AI ChatBot is a production-ready full-stack application with multi-provider AI support (Text,Image, Reasoning, coding, semantic memory system with embeddings, real-time streaming, function calling, analytics dashboard, and secure JWT authentication. Built with FastAPI, Next.js, PostgreSQL, and MongoDB.",
+      "pushed_at": "2025-11-16T05:35:17Z"
+    },
+    {
+      "name": "bank-api",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "desc": "A clean, production-ready REST API built with FastAPI that lets you query Indian bank and branch data by name, city, state, or IFSC code.",
+      "pushed_at": "2026-03-25T14:50:42Z"
+    },
+    {
+      "name": "face-recognition-deep",
+      "fork": false,
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "desc": "A real-time facial recognition system powered by OpenCV and DeepFace captures webcam frames, detects faces, and matches them with known faces stored locally.",
+      "pushed_at": "2025-04-05T10:01:19Z"
+    },
+    {
+      "name": "GraspMind-AI-",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "GraspMind AI is a full-stack, AI-native study platform. Students upload PDFs, DOCX, PPTX, and notes; the platform indexes them via a multi-stage Retrieval-Augmented Generation (RAG) pipeline. They can then chat with their material, generate flashcards, take adaptive quizzes, build knowledge graphs, and track mastery.  ",
+      "pushed_at": "2026-05-22T11:46:41Z"
+    },
+    {
+      "name": "HYPE",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "For modern e-commerce campaigns (specifically \"Refund after Purchase\" marketing loops), tracking who bought what, what the platform fees were, and matching those expectations against delayed, bulk bank deposits is a logistical nightmare.",
+      "pushed_at": "2026-04-06T09:38:50Z"
+    },
+    {
+      "name": "JurisQuery",
+      "fork": false,
+      "stars": 2,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "JurisQuery is a next-generation legal tech platform that simplifies complex document analysis. Upload legal contracts, ask natural language questions, and receive instant, citation-backed answers. Transform hours of manual reading into seconds of automated insight.",
+      "pushed_at": "2026-07-30T06:14:17Z"
+    },
+    {
+      "name": "OsmosisDB",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "desc": "OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy and automated DBA agent system.   It observes your application’s SQL traffic, semantically groups workloads using vector embeddings, detects access pattern drift, and safely applies schema optimisations (indexes) – all without human intervention.",
+      "pushed_at": "2026-07-29T09:57:00Z"
+    },
+    {
+      "name": "Portfolio-2.0",
+      "fork": false,
+      "stars": 2,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "Hi, I'm Abhijeet Singh - a Computer Science student and software developer specializing in AI/ML and full-stack development. This portfolio highlights my journey, projects, and technical expertise.",
+      "pushed_at": "2025-12-06T19:18:11Z"
+    },
+    {
+      "name": "Quotes-Recommendation-Chatbot-NLP",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "desc": "The Quotes Recommendation Chatbot using Rasa NLU is an intelligent conversational system that provides users with meaningful quotes based on their emotions and interests. Using natural language processing, it understands user input and responds with motivational, inspirational, or humorous quotes to deliver quick positivity and emotional support.",
+      "pushed_at": "2026-03-14T13:53:58Z"
+    },
+    {
+      "name": "Refundly2.0",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "desc": "Refundly is a full-stack refund management platform for e-commerce and product campaigns. Users submit refund requests, manage wallets, and earn through referrals. Admins process refunds with AI-powered fraud detection.",
+      "pushed_at": "2026-01-13T17:52:34Z"
+    },
+    {
+      "name": "SEO-Agent",
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "desc": "An advanced AI-powered internal SEO strategist and blog writing agent, built with Gemini API, autonomously generates high-quality, fully SEO-optimized blog content for a target website URL. It follows a structured, gated 7-step process and utilizes live web search capabilities.",
+      "pushed_at": "2026-03-28T08:33:07Z"
+    }
+  ],
+  "cached_at": "2026-09-25T13:55:38.286Z"
+}
