@@ -35,16 +35,21 @@
 *Aggregated in real-time from repository language data and topics:*
 
 **Repository Topics & Tags**  
-`AI/ML` · `FastAPI` · `Python` · `TypeScript` · `Next.js`
+`autonomous-agents` · `database-administrator` · `database-tuning` · `middlewares` · `multi-agent` · `multi-agent-orchestration` · `postgresql` · `python`
 
 <br/>
 
 **Codebase Language Distribution**  
 | Language | Distribution | Share |
 |:---|:---:|---:|
-| `TypeScript` | `█████░░░░░` | 54.5% |
-| `Python` | `████░░░░░░` | 36.4% |
-| `JavaScript` | `█░░░░░░░░░` | 9.1% |
+| `TypeScript` | `██████░░░░` | 56.3% |
+| `Python` | `████░░░░░░` | 35.5% |
+| `JavaScript` | `░░░░░░░░░░` | 3.9% |
+| `CSS` | `░░░░░░░░░░` | 2.3% |
+| `PLpgSQL` | `░░░░░░░░░░` | 1.0% |
+| `HTML` | `░░░░░░░░░░` | 0.4% |
+| `PowerShell` | `░░░░░░░░░░` | 0.2% |
+| `Shell` | `░░░░░░░░░░` | 0.2% |
 
 ---
 
@@ -96,7 +101,7 @@ A real-time facial recognition system powered by OpenCV and DeepFace captures we
 
 ### [OsmosisDB](https://github.com/Abhijeetsingh0022/OsmosisDB)
 
-OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy and automated DBA agent system.   It observes your application’s SQL traffic, semantically groups workloads using vector embeddings, detects access pattern drift, and safely applies schema optimisations (indexes) – all without human intervention.
+OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy and automated DBA agent system.   It observes your application’s SQL traffic, semantically groups workloads using vector embeddings, detects access pattern drift, and safely applies schema optimisations (indexes) – all without human intervention.<br/><code>autonomous-agents</code> <code>database-administrator</code> <code>database-tuning</code> <code>middlewares</code>
 <br/>
 <sub>⚙ Python &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 mo ago</sub>
 
