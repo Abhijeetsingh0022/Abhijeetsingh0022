@@ -103,7 +103,7 @@ A real-time facial recognition system powered by OpenCV and DeepFace captures we
 
 OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy and automated DBA agent system.   It observes your application’s SQL traffic, semantically groups workloads using vector embeddings, detects access pattern drift, and safely applies schema optimisations (indexes) – all without human intervention.<br/><code>autonomous-agents</code> <code>database-administrator</code> <code>database-tuning</code> <code>middlewares</code>
 <br/>
-<sub>⚙ Python &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 mo ago</sub>
+<sub>⚙ Python &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 2 mos ago</sub>
 
 </td>
 <td width="50%" valign="top">
