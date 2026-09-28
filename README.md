@@ -72,7 +72,7 @@ Advanced AI ChatBot is a production-ready full-stack application with multi-prov
 
 JurisQuery is a next-generation legal tech platform that simplifies complex document analysis. Upload legal contracts, ask natural language questions, and receive instant, citation-backed answers. Transform hours of manual reading into seconds of automated insight.
 <br/>
-<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 1 mo ago</sub>
+<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 2 mos ago</sub>
 
 </td>
 </tr>
