@@ -83,7 +83,7 @@ JurisQuery is a next-generation legal tech platform that simplifies complex docu
 
 Hi, I&#x27;m Abhijeet Singh - a Computer Science student and software developer specializing in AI/ML and full-stack development. This portfolio highlights my journey, projects, and technical expertise.
 <br/>
-<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 9 mos ago</sub>
+<sub>⚙ TypeScript &nbsp; ⭐ 2 &nbsp; ⑂ 0 &nbsp; · &nbsp; 10 mos ago</sub>
 
 </td>
 <td width="50%" valign="top">
