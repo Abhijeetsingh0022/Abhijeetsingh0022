@@ -63,7 +63,7 @@
 
 Advanced AI ChatBot is a production-ready full-stack application with multi-provider AI support (Text,Image, Reasoning, coding, semantic memory system with embeddings, real-time streaming, function calling, analytics dashboard, and secure JWT authentication. Built with FastAPI, Next.js, PostgreSQL, and MongoDB.
 <br/>
-<sub>⚙ TypeScript &nbsp; ⭐ 3 &nbsp; ⑂ 0 &nbsp; · &nbsp; 10 mos ago</sub>
+<sub>⚙ TypeScript &nbsp; ⭐ 3 &nbsp; ⑂ 0 &nbsp; · &nbsp; 11 mos ago</sub>
 
 </td>
 <td width="50%" valign="top">
