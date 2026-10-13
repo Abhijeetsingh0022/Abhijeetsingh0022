@@ -24,7 +24,7 @@
 
 | 📦 Public Repositories | ⭐ Total Stars Earned | 🍴 Total Forks | 📅 Tracked Since |
 |:---:|:---:|:---:|:---:|
-| **11** | **16** | **0** | **2023-12-12** |
+| **12** | **16** | **0** | **2023-12-12** |
 
 </div>
 
@@ -42,13 +42,13 @@
 **Codebase Language Distribution**  
 | Language | Distribution | Share |
 |:---|:---:|---:|
-| `TypeScript` | `██████░░░░` | 56.3% |
-| `Python` | `████░░░░░░` | 35.5% |
-| `JavaScript` | `░░░░░░░░░░` | 3.9% |
-| `CSS` | `░░░░░░░░░░` | 2.3% |
-| `PLpgSQL` | `░░░░░░░░░░` | 1.0% |
-| `HTML` | `░░░░░░░░░░` | 0.4% |
-| `PowerShell` | `░░░░░░░░░░` | 0.2% |
+| `TypeScript` | `█████░░░░░` | 55.0% |
+| `Python` | `████░░░░░░` | 37.2% |
+| `JavaScript` | `░░░░░░░░░░` | 3.3% |
+| `CSS` | `░░░░░░░░░░` | 2.0% |
+| `HTML` | `░░░░░░░░░░` | 1.1% |
+| `PLpgSQL` | `░░░░░░░░░░` | 0.8% |
+| `PowerShell` | `░░░░░░░░░░` | 0.3% |
 | `Shell` | `░░░░░░░░░░` | 0.2% |
 
 ---
@@ -161,6 +161,8 @@ GraspMind AI is a full-stack, AI-native study platform. Students upload PDFs, DO
 
 ### ⚡ Recent Public Activity
 
+- Pushed new commits to [Abhijeetsingh0022/Transcriber](https://github.com/Abhijeetsingh0022/Transcriber) · <sub>`2026-10-13`</sub>
+- Activity in [Abhijeetsingh0022/Transcriber](https://github.com/Abhijeetsingh0022/Transcriber) · <sub>`2026-10-11`</sub>
 - Pushed new commits to [Abhijeetsingh0022/Abhijeetsingh0022](https://github.com/Abhijeetsingh0022/Abhijeetsingh0022) · <sub>`2026-09-25`</sub>
 
 ---
