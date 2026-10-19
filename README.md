@@ -112,7 +112,7 @@ OsmosisDB is a high‑performance, transparent Layer 4 sidecar database proxy an
 
 GraspMind AI is a full-stack, AI-native study platform. Students upload PDFs, DOCX, PPTX, and notes; the platform indexes them via a multi-stage Retrieval-Augmented Generation (RAG) pipeline. They can then chat with their material, generate flashcards, take adaptive quizzes, build knowledge graphs, and track mastery.
 <br/>
-<sub>⚙ TypeScript &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 4 mos ago</sub>
+<sub>⚙ TypeScript &nbsp; ⭐ 1 &nbsp; ⑂ 0 &nbsp; · &nbsp; 5 mos ago</sub>
 
 </td>
 </tr>
